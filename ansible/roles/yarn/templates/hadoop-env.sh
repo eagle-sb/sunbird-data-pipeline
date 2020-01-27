@@ -1,1 +1,1 @@
-export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+export JAVA_HOME=/opt/jdk-1.8.0_121
