@@ -1,1 +1,1 @@
-export JAVA_HOME=/opt/jdk-1.8.0_121
+export JAVA_HOME=/opt/jdk1.8.0_121/
